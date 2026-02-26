@@ -15,7 +15,7 @@ A modern React-based dashboard and Chrome Extension that provides a seamless int
 * **Real-time Feedback:** Loading states and copy-to-clipboard functionality.
 
 ##  Links
-* **Live Demo:** smart-email-frontend-nqfmo1vys-shrilliks-projects.vercel.app
+* **Live Demo:** https://smart-email-frontend-7aatl1qmh-shrilliks-projects.vercel.app/
 * **Associated Backend:** https://github.com/shrillik/smart-email-backend
 
 ##  Chrome Extension Installation (Manual)
