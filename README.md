@@ -2,7 +2,7 @@
 
 A modern React-based dashboard and Chrome Extension that provides a seamless interface for generating AI-powered email replies.
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Library:** React.js
 * **Build Tool:** Vite
 * **UI Framework:** Material UI (MUI)
